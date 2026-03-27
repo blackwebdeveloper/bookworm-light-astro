@@ -36,11 +36,11 @@ At this point in the roadmap, this page was pixel perfect to the design.
 
 _On to Day 1+1!_
 
-_​_
+🎁🎁🎁🎁🎁🎁🎁🎁🎁
 
-_​_
+🎁 _Free gift alert!_ 🎁
 
-🎁 _Free gift alert!_  🎁
+🎁🎁🎁🎁🎁🎁🎁🎁🎁
 
 I compiled a 50+ product and software list that will blow up your digital business and take it to the next level.&#x20;
 
