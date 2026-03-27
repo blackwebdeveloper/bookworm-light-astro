@@ -2,7 +2,7 @@
 title: "Day 1 of #100DaysOfCode: HTML and CSS"
 meta_title: ""
 description: ""
-date: 2026-03-27T17:21:31.741Z
+date: 2026-03-26T17:21:00.000Z
 image: "/images/Gemini_Generated_Image_14g8u814g8u814g8.png"
 categories:
   - ""
