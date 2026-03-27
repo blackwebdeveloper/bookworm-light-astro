@@ -28,9 +28,9 @@
       "name": "date",
       "label": "Date",
       "type": "Date",
-      "value": "2026-03-27",
-      "defaultValue": "",
-      "alwaysUseCurrentDate": true
+      "value": "2026-03-27T17:09:38.955Z",
+      "defaultValue": "2026-03-27T17:09:38.955Z",
+      "alwaysUseCurrentDate": false
     },
     {
       "name": "image",
