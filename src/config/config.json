@@ -19,8 +19,8 @@
     "meta_description": "Boston Massachusetts Web Developer"
   },
   "google_tag_manager": {
-    "enable": false,
-    "gtm_id": "GTM-XXXXXX"
+    "enable": true,
+    "gtm_id": "GTM-KL3JV8RQ"
   },
   "params": {
     "contact_form_action": "#",
