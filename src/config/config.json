@@ -23,7 +23,7 @@
     "gtm_id": "GTM-XXXXXX"
   },
   "params": {
-    "contact_form_action": "",
+    "contact_form_action": "#",
     "copyright": "Copyright © 2026 built by [Daryl](https://builtbydaryl.wiki)"
   },
   "contactinfo": {
