@@ -14,9 +14,9 @@
     "pagination": 5
   },
   "metadata": {
-    "meta_author": "Themefisher",
-    "meta_image": "/images/og-image.png",
-    "meta_description": "Bookworm Light Astro Blog Template"
+    "meta_author": "Daryl Dauphin",
+    "meta_image": "/images/cartoon_profile.png",
+    "meta_description": "Boston Massachusetts Web Developer"
   },
   "google_tag_manager": {
     "enable": false,
@@ -30,5 +30,6 @@
     "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
     "email": "info@bookworm.org",
     "phone": "+800 567 1234"
-  }
+  },
+  "draft": false
 }
